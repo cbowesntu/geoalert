@@ -1,7 +1,7 @@
 [
   {
     "action": "talk",
-    "voiceName": "kimberly",
-    "text": "You are listening to a test call from the Track Tracker alert system, which voice do you prefer"
+    "voiceName": "Brian",
+    "text": "You are listening to an alert call from the Track Tracker alert system, Tracker Team 1 is within range of Tracker Team 2"
   }
 ]
